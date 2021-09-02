@@ -19,7 +19,7 @@
     "@nestjs/core": "^6.7.2",
     "@nestjs/platform-express": "^6.7.2",
     "antd": "^3.26.3",
-    "immer": "^5.1.0",
+    "immer": "^9.0.6",
     "nest-next": "^9.1.1",
     "next": "^9.1.6",
     "next-redux-wrapper": "^4.0.1",
